@@ -31,23 +31,30 @@ bash
 3. Run the following command to install the required libraries
 
 CMD
-'''pip install -r requirements.txt'''
+'pip install -r requirements.txt'
 
-##### Usage
+
+
+
+## Usage
 
 To use chatwithyouryoutubevideo, follow these steps:
 
 1. Clone this repository to your local machine:
 
 bash
-'''git clone https://github.com/yourusername/chatwithyouryoutubevideo.git'''
+'git clone https://github.com/yourusername/chatwithyouryoutubevideo.git'
+
+
+
+
 
 2. Install the required libraries(as mentioned above)
 3. Run the app on streamlit 
 3.1. Run the following code in your terminal
 
 bash
-'''streamlit run yt.py'''
+'streamlit run yt.py'
 
 4. After running the command, Streamlit will start a local development server, and you can access the web app in your browser at 'http://localhost:8501'.
 5. Enter the youtube video you want to ask questions on enter your openaiapi key and ask your questions!
