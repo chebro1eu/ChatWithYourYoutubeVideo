@@ -22,6 +22,7 @@ Before you can use chatwithyouryoutubevideo, make sure you have the required Pyt
 
 ```bash
 pip install -r requirements.txt
+'''
 
 #### Windows CMD
 
@@ -31,7 +32,7 @@ pip install -r requirements.txt
 
 '''CMD
 pip install -r requirements.txt
-
+'''
 ##### Usage
 
 To use chatwithyouryoutubevideo, follow these steps:
@@ -40,6 +41,7 @@ To use chatwithyouryoutubevideo, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/chatwithyouryoutubevideo.git
+'''
 
 2. Install the required libraries(as mentioned above)
 3. Run the app on streamlit 
