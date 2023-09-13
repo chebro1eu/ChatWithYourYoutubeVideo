@@ -1,6 +1,6 @@
-# chatwithyouryoutubevideo
+# Chat With Your Youtube Video
 
-chatwithyouryoutubevideo is a web app that allows you to extract valuable information from YouTube video transcripts and answer questions based on that content. Additionally, it offers a keyword extractor to generate keywords from YouTube transcripts and suggest related videos (work in progress).
+Youtube GPT is a web app that allows you to extract valuable information from YouTube video transcripts and answer questions based on that content. Additionally, it offers a keyword extractor to generate keywords from YouTube transcripts and suggest related videos (work in progress).
 
 ## Features
 
